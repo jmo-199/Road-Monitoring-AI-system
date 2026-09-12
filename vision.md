@@ -1,5 +1,6 @@
 # The current problem #
 Today road infrastructure maintenance is reactive in Indianapolis. Requiring citizens to manually report potholes and where they are which is a slow process not addressing fixing the roads fast enough allowing them to deteriorate worse. 
+
 **The vision**
 - Develop a real time road monitoring AI system
 - Through sensors or cameras this system will be an interconnected platform that can monitor and detect in real time the health of roads.
