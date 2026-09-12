@@ -1,6 +1,6 @@
 # Road-Monitoring-AI-system
-# Project layout 
-** Architectural Overview **
+
+**Architectural Overview**
 1. Roadmap layout
 2. Weather context training
 3. Traffic pattern
