@@ -15,4 +15,9 @@ Today road infrastructure maintenance is reactive in Indianapolis. Requiring cit
   1. Road severity model - how bad is this road right now?
   2. A deterioration model - what will the state of road be?
   3. Pothole risk model - Given everything we know about this road, how likely is failure within some future window?
+- The interface
+  1. A custom made application. This will store the models outputs but be used for creating an interactive interface for users to see the display.
+  2. This will include dashboards of hotspots with sever road health, pothole mappings within roads and risk score, as well weather tracking.
+  3. This will include an AI assistant for users to ask questions such as "how bad will Meridian street be after this snowstorm occurs"
+     - Charts can be generated through NLS. There can be dashboards already made and then a section for when users query charts and graphs are generated through NLS providing users an actual visual representation of the answer to their question with also explainability in human readable language. 
   
